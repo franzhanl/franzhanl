@@ -1,6 +1,6 @@
 ## Olá 👋, Sou Franz Richard Hanl Neto
 
-- 🌱 Estudando Ruby on Rails
+- 🌱 Estudando React
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente não trabalho na área, mas estou desenvolvendo pequenos projetos para expandir meus conhecimentos 
 - 📫 Contate-me no email: franz.hanl@hotmail.com
