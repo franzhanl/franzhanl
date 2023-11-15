@@ -2,7 +2,7 @@
 
 - 🌱 Estudando nodeJS
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente não trabalho na área, mas estou desenvolvendo pequenos projetos para expandir meus conhecimentos 
+- 🔭 Gosto de desenvolver pequenos projetos para expandir meus conhecimentos, fique à vontade para dar uma olhada 
 - 📫 Contate-me no email: franz.hanl@hotmail.com
 
 
